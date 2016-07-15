@@ -13,6 +13,7 @@
 		411F10671CB4985600B14178 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 411F10661CB4985600B14178 /* Assets.xcassets */; };
 		411F106A1CB4985600B14178 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 411F10681CB4985600B14178 /* LaunchScreen.storyboard */; };
 		411F10751CB4985600B14178 /* MineSweeperTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 411F10741CB4985600B14178 /* MineSweeperTests.swift */; };
+		411F10801CB4991B00B14178 /* SweeperView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 411F107F1CB4991B00B14178 /* SweeperView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		411F10701CB4985600B14178 /* MineSweeperTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MineSweeperTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		411F10741CB4985600B14178 /* MineSweeperTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MineSweeperTests.swift; sourceTree = "<group>"; };
 		411F10761CB4985600B14178 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		411F107F1CB4991B00B14178 /* SweeperView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SweeperView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +81,7 @@
 			children = (
 				411F105F1CB4985600B14178 /* AppDelegate.swift */,
 				411F10611CB4985600B14178 /* ViewController.swift */,
+				411F107F1CB4991B00B14178 /* SweeperView.swift */,
 				411F10631CB4985600B14178 /* Main.storyboard */,
 				411F10661CB4985600B14178 /* Assets.xcassets */,
 				411F10681CB4985600B14178 /* LaunchScreen.storyboard */,
@@ -197,6 +200,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				411F10801CB4991B00B14178 /* SweeperView.swift in Sources */,
 				411F10621CB4985600B14178 /* ViewController.swift in Sources */,
 				411F10601CB4985600B14178 /* AppDelegate.swift in Sources */,
 			);

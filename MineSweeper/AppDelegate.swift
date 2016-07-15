@@ -1,10 +1,9 @@
 //
 //  AppDelegate.swift
 //  MineSweeper
-//
+//  CIS/CSE 444/651
+//  Homework G
 //  Created by Nicklos Serguier on 05/04/16.
-//  Copyright © 2016 Nicklos Serguier. All rights reserved.
-//
 
 import UIKit
 
